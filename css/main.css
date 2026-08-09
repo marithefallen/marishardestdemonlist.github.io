@@ -67,8 +67,8 @@ header .logo {
     gap: 1rem;
 }
 header .logo .logo__image {
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 2rem;
+    height: 2rem;
     align-self: center;
     object-fit: contain;
 }
