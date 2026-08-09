@@ -3,16 +3,10 @@
     "name": "The Nightmare",
     "author": "Jax",
     "creators": ["Jax"],
-    "Tags": "Free", "Not A Demon",
+    "Tags": "Free, Not A Demon",
     "Completion Video": "N/A",
+    "Level Progress": "100%",
     "Attempts": "N/A",
     "Difficulty Opinion": "9 star",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+    "records": []
 }
