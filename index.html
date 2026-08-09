@@ -28,11 +28,6 @@
                 align-items: center;
                 gap: 0.75rem;
             }
-            .logo svg {
-                width: 1.5rem;
-                height: 1.5rem;
-                object-fit: contain;
-            }
             header {
                 display: flex;
                 justify-content: space-between;
@@ -55,7 +50,7 @@
     <body id="app">
         <header :class="{ dark: store.dark }">
             <div class="logo">
-                <img src="/assets/mari-logo.png" alt="Mari's List logo" class="logo-image">
+                <img src="/assets/mari-logo.png" alt="Mari's List logo" class="logo__image">
                 <div class="logo-text">
                     <h2>Maris List</h2>
                     <p>v1.0.2</p>
