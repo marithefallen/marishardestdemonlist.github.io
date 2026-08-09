@@ -66,6 +66,12 @@ header .logo {
     align-items: flex-end;
     gap: 1rem;
 }
+header .logo .logo__image {
+    width: 3rem;
+    height: 3rem;
+    align-self: center;
+    object-fit: contain;
+}
 header .nav {
     flex: 1;
 }
